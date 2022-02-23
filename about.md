@@ -3,7 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+<img src="{{site.baseurl}}/images/head.jpg" alt="Picture of Olivia" width="100" 
+style="float: left; margin-top: 0px; margin-right: 10px" /> 
 Get to know me!
 
 ### More Information
