@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Group Members
-permalink: /people/
+title: Volunteering and Experience
+permalink: /experience/
 ---
 
-Include information about current and past group members here. 
+Yay. 
