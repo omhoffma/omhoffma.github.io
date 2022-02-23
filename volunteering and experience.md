@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Volunteering and Experience
-permalink: /experience/
+permalink: /Volunteering and Experience/
 ---
 
 Yay. 
