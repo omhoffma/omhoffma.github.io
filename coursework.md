@@ -5,11 +5,11 @@ permalink: /coursework/
 ---
 
 **Relevant Coursework**
-General Chemistry: CHEM 124, 125, 126
-Organic Chemistry: CHEM 216, 217, 221
-Quantitative Analysis: CHEM 331
-Calculus: MATH 141, 142,143
-Physics: PHYS 141, 132, 133
+- General Chemistry: CHEM 124, 125, 126
+- Organic Chemistry: CHEM 216, 217, 221
+- Quantitative Analysis: CHEM 331
+- Calculus: MATH 141, 142,143
+- Physics: PHYS 141, 132, 133
 
 **Lab Skills**
 
