@@ -4,21 +4,13 @@ title: Coursework
 permalink: /coursework/
 ---
 
-**General Chemistry: CHEM 124, 125, 126**
+**Relevant Coursework**
+General Chemistry: CHEM 124, 125, 126
+Organic Chemistry: CHEM 216, 217, 221
+Quantitative Analysis: CHEM 331
+Calculus: MATH 141, 142,143
+Physics: PHYS 141, 132, 133
 
-What did I learn in gen chem
+**Lab Skills**
 
-
-**Organic Chemistry: CHEM 216, 217, 221**
-
-Organic Chemistry + Lab
-
-
-**Calculus: MATH 141, 142,143**
-
-Basic Calculus Skills
-
-
-**Physics: PHYS 141, 132, 133**
-
-I hate physics with all my heart 
+Gas Chromatography, Carbon NMR, Hydrogen NMR, Recrystallization, Rotary Evaporation, Mass Spectroscopy, Titrations, Thin-Layer Chromotography, Vacuum Filtration, Infared Spectroscopy, Fractional Distillation, Chemically Active Distillation
