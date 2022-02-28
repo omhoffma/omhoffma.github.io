@@ -2,4 +2,4 @@
 layout: post
 title: Welcome!
 ---
-You can change the title above if you want to and then write your content.  
+Welcome to my website! I hope you get to know a little more about me and my interests.  
