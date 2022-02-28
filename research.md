@@ -12,4 +12,5 @@ In January, I was asked to join Dr. Palandoken's research group focusing on oxim
 
 
 **My Research Interests**
+
 I really enjoy organic chemistry synthesis, as I find the process itself to be a sort of puzzle. I have not yet taken Biochemistry or Physical chemistry, so I am hoping that both of those classes spark interest as well. 
