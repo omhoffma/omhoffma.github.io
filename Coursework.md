@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coursework
-permalink: /coursework/
+permalink: /Coursework/
 ---
 
 **Relevant Coursework**
